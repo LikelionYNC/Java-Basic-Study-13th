@@ -5,9 +5,14 @@
 - 멋쟁이사자처럼 13기 기초 자바스터디입니다.
 
 ## 스터디 팀원
-| [기봉](https://github.com/rohgibong) | [상희](https://github.com/sanghee00) | [용준](https://github.com/55yong) | [정은](https://github.com/kswkm) | [준혁](https://github.com/alpaca07) |
-|:--------------------------------------:|:--------------------------------------:|:----------------------------------:|:----------------------------------:|:------------------------------------:|
-| [<img src="https://github.com/rohgibong.png" width="150px">](https://github.com/rohgibong) | [<img src="https://github.com/sanghee00.png" width="150px">](https://github.com/sanghee00) | [<img src="https://github.com/55yong.png" width="150px">](https://github.com/55yong) | [<img src="https://github.com/kswkm.png" width="150px">](https://github.com/kswkm) | [<img src="https://github.com/alpaca07.png" width="150px">](https://github.com/alpaca07) |
+| [기봉](https://github.com/rohgibong) | [상희](https://github.com/sanghee00) | [용준](https://github.com/55yong) |
+|:------------------------------------:|:------------------------------------:|:---------------------------------:|
+| [<img src="https://github.com/rohgibong.png" width="150px">](https://github.com/rohgibong) | [<img src="https://github.com/sanghee00.png" width="150px">](https://github.com/sanghee00) | [<img src="https://github.com/55yong.png" width="150px">](https://github.com/55yong) |
+
+
+| [정은](https://github.com/kswkm) |                            [준환](https://github.com/alpaca07)                             | [준혁](https://github.com/jun-hY)                                                           |
+|:------------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------|
+| [<img src="https://github.com/kswkm.png" width="150px">](https://github.com/kswkm) | [<img src="https://github.com/alpaca07.png" width="150px">](https://github.com/alpaca07) | [<img src="https://github.com/jun-hY.png" width="150px">](https://github.com/jun-hY)  |
 
 
 ## 스터디 진행 방식
