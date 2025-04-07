@@ -23,7 +23,7 @@
 ### 01-2, 3. 개발 환경 설치 및 `Hello, World!` 프로그램 작성
 
 > **Vscode** java compile 환경 구축 완료
-![[Pasted image 20250407233508.png]]
+![variable](./img/Pasted%20image%2020250407233508.png)
 
 ## 2. 변수와 자료형
 ### 02-1 컴퓨터의 데이터 표현
@@ -42,13 +42,13 @@
 		변수의 초기화 -> 특정 문자가 해당 데이터를 지칭할 것이라는 정의
 
 ### 02-3 변수의 자료형
-![[img/Pasted image 20250407235109.png]]
+![variable](./img/Pasted%20image%2020250407235109.png)
 
 ### 02-4 상수와 리터럴
 
 - 상수 : 변하지 않는 값
-![[Pasted image 20250407235242.png]]
+![variable](./img/Pasted%20image%2020250407235242.png)
 - 리터럴(Literal) : 모든 숫자, 문자, 논리값
 
 ### 02-5 형 변환
-![[Pasted image 20250407235922.png]]
+![variable](./img/Pasted%20image%2020250407235922.png)
