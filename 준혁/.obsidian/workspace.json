@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d0a96f23afb104e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b80021fb57630b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78128f6b8c090f8f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "day_1/img/Pasted image 20250407235922.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250407235922"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79a093cf5dfa0ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3073c7262f8b908a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720a87ff2ce7deed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "dc68806628ce7289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e26d9c2c27e94e17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62ae4458bae44345",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2976f74132cfd7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44b9ef8fd43b841",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "day_1/img/Pasted image 20250407235922.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Pasted image 20250407235922 의 백링크"
+            }
+          },
+          {
+            "id": "da3dfa6ecadba3ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "day_1/img/Pasted image 20250407235922.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20250407235922 의 나가는 링크"
+            }
+          },
+          {
+            "id": "20a75f05164de75f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "48c7dfc309b4bb37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "day_1/img/Pasted image 20250407235922.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Pasted image 20250407235922 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "720a87ff2ce7deed",
+  "lastOpenFiles": [
+    "day_1/img/Pasted image 20250407235242.png",
+    "day_1/day_1.md",
+    "day_1/img/Pasted image 20250407235922.png",
+    "day_1/img/Pasted image 20250407235109.png",
+    "Pasted image 20250407234730.png",
+    "Pasted image 20250407234336.png",
+    "Pasted image 20250407234153.png",
+    "day_1/img/Pasted image 20250407233508.png",
+    "day_1/img/Pasted image 20250407233855.png",
+    "day_1/img/Pasted image 20250407233808.png",
+    "day_1/img/Pasted image 20250407231405.png"
+  ]
+}
