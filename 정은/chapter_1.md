@@ -11,8 +11,8 @@ public class Hellojava {
     	System.out.println(iNum3);
         System.out.println(iNum4);
     }
-}
-
+}  
+ 
 // ㅎ호호 주석.. 자바..
 /* ㄷ루ㅑ로모랴된도ㅜ하후핀구
 딘다ㅜ리누히나 */   주석 처리....
