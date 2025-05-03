@@ -7,7 +7,7 @@
 ## 스터디 팀원
 
 | [정은](https://github.com/kswkm) | [준환](https://github.com/alpaca07) | [준혁](https://github.com/jun-hY) |
-|:------------:|:------------------------------------------:|:-------------------------------------------------------|
+|:------------:|:------------------------------------------:|:-------------------------------------------------------:|
 | [<img src="https://github.com/kswkm.png" width="150px">](https://github.com/kswkm) | [<img src="https://github.com/alpaca07.png" width="150px">](https://github.com/alpaca07) | [<img src="https://github.com/jun-hY.png" width="150px">](https://github.com/jun-hY)  |
 
 
