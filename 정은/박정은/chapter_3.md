@@ -39,7 +39,7 @@ return	메서드 실행 결과 반환 or 중단
 인스턴스(instance): 설계도로 만든 실제 제품 (객체) + 힙 메모리
 
 생성자 -> public person( ) {}
-
+ 
 접근 제어자... private... 정보 은닉
 
 static 변수 -> 인스턴스 공유
