@@ -16,7 +16,7 @@ public class Hellojava {
 	System.out.println(avgScore);
     }
 }
- 
+   
  
 != -> 두 개의 항이 다르면 참, 아니면 거짓을 반환환
 ... 조건식, 반복문 제어할 때 사용
